@@ -56,7 +56,7 @@
 ## 🐞 Bug Bounty
 
 - 🏆 Profiles: <!-- [HackerOne](https://hackerone.com/YOUR_HANDLE) • [Bugcrowd](https://bugcrowd.com/YOUR_HANDLE) -->
-- 📝 Write-ups: <!-- link to blog / Medium / GitHub repo of reports -->
+- 📝 Write-ups: [Three Million Bricks to Three Million Transactions: A WordPress RCE-to-Cryptojacking Case Study](https://medium.com/@Shekaraeluri) (Medium)
 - 🔎 Areas I look at: XSS, SQL injection, IDOR, authentication and access-control flaws, misconfigurations
 
 ---
